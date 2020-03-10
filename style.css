@@ -1,0 +1,29 @@
+body{
+    background-color: green;
+    font-family: cursive;
+    margin: 0em;
+}
+
+a{
+    color: violet;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight:bold;
+
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin-top: 0;
+    background-color:yellow;
+}
+
+#logo{
+    height: 40px;
+}
+
+#menu{
+    background: none;
+    border: none;
+}
